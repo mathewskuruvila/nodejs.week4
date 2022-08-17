@@ -1,0 +1,61 @@
+/* backgroud style */
+.wrap {
+  height: 100vh;
+
+  background-color: #e9eff1;
+  background: url("https://in-exstatic-vivofs.vivo.com/gdHFRinHEMrj3yPG/1654769895038/eb704a36883acbe1bcd3c71d119cb30d.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: right;
+
+  padding-top: 40px;
+  padding-bottom: 40px;
+  padding-left: 80px;
+  padding-right: 80px;
+}
+
+/*   login page style*/
+.login-wrap {
+  display: flex;
+
+}
+
+
+.log-detail {
+  position: relative;
+  border-radius: 20px;
+  height: 85vh;
+  background-color: transparent;
+}
+
+.loginform {
+  background-color: rgb(0, 0, 0);
+  margin-left: 130px;
+  margin-top: 70px;
+  width: fit-content;
+  opacity: .9;
+  border-radius: 6%;
+}
+
+.row {
+  padding: 10px;
+}
+
+.row .btn {
+  margin-left: 28%;
+
+
+}
+
+
+.card-title {
+  text-align: center;
+}
+
+.cart{
+  background: url("https://in-exstatic-vivofs.vivo.com/gdHFRinHEMrj3yPG/1654769895038/eb704a36883acbe1bcd3c71d119cb30d.jpg");
+  background-repeat:no-repeat;
+  background-size: cover;
+  background-position: center;
+  height: 100%;
+}
